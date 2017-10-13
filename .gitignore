@@ -5,4 +5,7 @@
 /Makefile
 /aclocal.m4
 /autom4te.cache/
+/byux
 /byux-*.tar.gz
+/config.log
+/config.status
